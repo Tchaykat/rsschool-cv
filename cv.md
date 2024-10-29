@@ -1,4 +1,4 @@
-<img src="./assets/img/Me.jpg" width="270" height="400">
+<img src="./assets/Me.jpg" width="270" height="400">
 # Chayka Tamara Nikolayevna
 ### _Female, born on 20 January.
 
