@@ -1,6 +1,6 @@
-<img src="./assets/Me.jpg" width="270" height="400">
+<img src="/assets/Me.jpg" width="270" height="400">
 # Chayka Tamara Nikolayevna
-### _Female, born on 20 January.
+### Female, born on 20 January.
 
 Graduated from St. Petersburg Technological University. Worked as a trade marketing manager for several years. Interested in mastering a game engine or library for creating game mechanics. Currently in the process of learning React. My passion is good design and high functionality of the surrounding space.
 
